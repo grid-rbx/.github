@@ -5,6 +5,13 @@ We are Grid, a company devoted to help you manage your super awesome Roblox expe
 
 We hope you're along for the ride 🚀
 
+### Contributing 🌈
+First off, thanks for contributing!
+
+To contribute to anything, please open an issue or a pull request with the appropriate labels. We do not add outside collaborators, so you must make a pull request or an issue to make changes.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
