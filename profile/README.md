@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 ### About us 🙋‍
-We are Grid, a company devoted to help you manage your super awesome Roblox experiences in production. We've had the idea to do this for **2 years** but have only started working on it now. Crazy, isn't it? Since then, we have come up with countless ways to help you and your team manage your experiences on Roblox. From banlists to feature-flags, Grid is there for you. We are now nearing closer than ever to launching, which is stupendous because we can't wait to meet all of you!
+We're Grid, a company devoted to help you manage your super awesome Roblox experiences in production. We've had the idea to do this for **2 years** but have only started working on it now. Crazy, isn't it? Since then, we have come up with countless ways to help you and your team manage your experiences on Roblox. From banlists to environment variables, Grid will be there for you. We are now nearing closer than ever to launching, which is incredible because we can't wait to meet all of you!
 
 We hope you're along for the ride 🚀
 
 ### Contributing 🌈
 First off, thanks for contributing!
 
-To contribute to anything, please open an issue or a pull request with the appropriate labels. We do not add outside collaborators, so you must make a pull request or an issue to make changes.
+We have a few open-source libraries, and if you see fit to contribute to these repositories, great! We can always use a helping hand. To contribute, open an pull request with the updated code, and our team of astonishing developers will look it over and decide if your chef-d'œuvre is ready for production. Remember to only make pull requests to the development branch, not the production. If you have a suggestion, or don't know how to make your change a reality or bring a fix to fruition, an issue is the way to go for you.
 
 
 
