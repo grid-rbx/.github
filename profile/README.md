@@ -16,7 +16,8 @@ Here are a few links that should prove to be incredibly useful:
 - [Docs 📚](https://docs.gridapp.tech) 
 - [Status 🟢](https://grid.instatus.com)
 - [Legal ⚖️](https://legal.gridapp.tech)
-- [Feedback ☝️](https://grid.hellonext.co)
+- [Feedback ☝️](https://feedback.gridapp.tech)
+- [Help Center 🙋](https://help.gridapp.tech)
 
 
 
