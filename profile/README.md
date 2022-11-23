@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About us 🙋‍
-We're Grid, a company devoted to help you manage your super awesome Roblox experiences in production. We've had the idea to do this for **2 years** but have only started working on it now. Crazy, isn't it? Since then, we have come up with countless ways to help you and your team manage your experiences on Roblox. From banlists to environment variables, Grid will be there for you. We are now nearing closer than ever to launching, which is incredible because we can't wait to meet all of you!
+We're Grid, a company devoted to help you manage your super awesome Roblox experiences in production. We have come up with countless ways to help you and your team manage your experiences on Roblox. From banlists to environment variables, Grid will be there for you. We are now nearing closer than ever to launching, which is incredible because we can't wait to meet all of you!
 
 We hope you're along for the ride 🚀
 
